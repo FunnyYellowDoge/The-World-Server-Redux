@@ -76,7 +76,7 @@
 	gluttonous = 2
 
 	flags = NO_SCAN
-	spawn_flags = SPECIES_IS_RESTRICTED | SPECIES_IS_WHITELISTED | SPECIES_NO_FBP_CONSTRUCTION | SPECIES_NO_FBP_CHARGEN
+	spawn_flags = SPECIES_CAN_JOIN
 	appearance_flags = HAS_EYE_COLOR | HAS_HAIR_COLOR
 
 	blood_color = "#2de00d"
