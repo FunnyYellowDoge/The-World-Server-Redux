@@ -567,7 +567,7 @@ var/world_topic_spam_protect_time = world.timeofday
 	s += "<b>Official World Server | Roleplaying</b>";
 	s += " | Persistent money, partial map saving, elections."
 
-	s += "(<a href=\"https://discord.gg/4KUpvnJ\">" //Change this to wherever you want the hub to link to.
+	s += "(<a href=\"https://discord.gg/Cp8httq\">" //Change this to wherever you want the hub to link to.
 //	s += "[game_version]"
 	s += "DISCORD"
 	s += "</a>"
